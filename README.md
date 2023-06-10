@@ -10,8 +10,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flar&logo=CSS3&logoColor=1572b6)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flar&logo=react)&nbsp;
 ```
-Minhas primeiras linhas de códigos foi digitada em 15/11/2022, assistindo o tão famoso "Gustavo Guanabara", criador do Curso em Video,
-hoje escrever linhas de códigos virou minha paixão ❤❤ , e algo que me identifico muito.
+Minhas primeiras linhas de códigos foi digitada em 15/11/2022, assistindo o tão famoso "Gustavo Guanabara",
+criador do Curso em Video, hoje escrever linhas de códigos virou minha paixão ❤❤,
+e algo que me identifico muito.
 ```
 ## ❤️‍🔥 Não perca tempo dê uma olhada em meus projetos !!
 ### Obrigado por visitar meu perfil  ☺️ !!
