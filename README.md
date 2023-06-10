@@ -1,21 +1,19 @@
-### Olá! Eu sou Pablo Alves 👋
+# Olá! Seja Bem Vindo ao meu perfil, Eu sou Pablo Alvess.
+<p> <img src="https://komarev.com/ghpvc/?username=dev-ribeirojr&color=blue" alt="Profile Views" /> </p>
 
 ![Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ribeirojr&show_icons=true&theme=dracula)
 
-### Tecnologias que estou estudando e utilizando no dia a dia 
+## 😎 Essas são as tecnologias que estou estudando.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flar&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flar&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flar&logo=CSS3&logoColor=1572b6)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flar&logo=react)&nbsp;
+
+Minhas primeiras linhas de códigos foi digitada em 15/11/2022, assistindo o tão famoso "Gustavo Guanabara", criador do Curso em Video,
+hoje escrever linhas de códigos virou minha paixão ❤❤ , e algo que me identifico muito.
+
+## ❤️‍🔥 Não perca tempo dê uma olhada em meus projetos !!
+### Obrigado por visitar meu perfil  ☺️ !!
 
 
-<div style="display: inline-block">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
-<div>
-<p>Estudei um pouco de React Native mas me identifiquei mesmo foi com Front-End Web</p>
-</div>
-</br>
-Cursei por 6 mêses Gestão da Tecnologia da Informação onde estudei um pouco sobre: 
-Modelagem de Dados, Lógica de Programação, Auditoria de Sistemas e Projeto de Software, tranquei o curso em Pitágoras e começei a estudar programação, tenho 22 anos e busco por uma oportunidade treinee ou junior, ficarei feliz em fazer parte de sua empresa. 
-
-"Obrigado por visitar meu perfil !!"
