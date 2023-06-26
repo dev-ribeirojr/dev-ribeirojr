@@ -1,4 +1,4 @@
-# Olá! Seja Bem Vindo ao meu perfil, Eu sou Pablo Alvess.
+# Olá! Eu sou Pablo Alves.
 <p> <img src="https://komarev.com/ghpvc/?username=dev-ribeirojr&color=blue" alt="Profile Views" /> </p>
 
 ![Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ribeirojr&show_icons=true&theme=dracula)
@@ -12,7 +12,7 @@
 ```
 Minhas primeiras linhas de códigos foi digitada em 15/11/2022, assistindo o tão famoso "Gustavo Guanabara",
 criador do Curso em Video, hoje escrever linhas de códigos virou minha paixão ❤❤,
-e algo que me identifico muito.
+é algo que me identifico muito.
 ```
 ## ❤️‍🔥 Não perca tempo dê uma olhada em meus projetos !!
 ### Obrigado por visitar meu perfil  ☺️ !!
