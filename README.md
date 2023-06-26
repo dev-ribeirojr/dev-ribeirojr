@@ -3,7 +3,7 @@
 
 ![Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ribeirojr&show_icons=true&theme=dracula)
 
-## 😎 Essas são as tecnologias que estou estudando.
+## 😎 Essas são as tecnologias que utilizo.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flar&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flar&logo=HTML5)&nbsp;
