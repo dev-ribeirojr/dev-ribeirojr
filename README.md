@@ -1,20 +1,25 @@
-# Olá! Eu sou Pablo Alves.
-<p> <img src="https://komarev.com/ghpvc/?username=dev-ribeirojr&color=blue" alt="Profile Views" /> </p>
+## Olá! Eu me chamo Pablo Alves.
 
-![Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ribeirojr&show_icons=true&theme=dracula)
+- Desenvolvedor Front-end 🖥
+- Apaixonado por resolver problemas utilizando minha lógica, pois e isso que faz um programador!! 🥰
+- E-mail: pabloallves1522@gmail.com 
 
-## 😎 Essas são as tecnologias que utilizo.
+<br>
+<div style="display: inline_block">
+    <img align="center" alt="Amanda-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="Amanda-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" alt="Amanda-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img align="center" alt="Amanda-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="Amanda-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
+<br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flar&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flar&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flar&logo=CSS3&logoColor=1572b6)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flar&logo=react)&nbsp;
 ```
-Minhas primeiras linhas de códigos foi digitada em 15/11/2022, assistindo o tão famoso "Gustavo Guanabara",
-criador do Curso em Video, hoje escrever linhas de códigos virou minha paixão ❤❤,
-é algo que me identifico muito.
+Minha primeira linha de código foi digitada em 15/11/2022,
+assistindo o tão famoso "Gustavo Guanabara" criador do Curso em Video,
+hoje escrever linhas de código virou minha paixão ❤❤.
 ```
-## ❤️‍🔥 Não perca tempo dê uma olhada em meus projetos !!
-### Obrigado por visitar meu perfil  ☺️ !!
-
-
+ <div> 
+  <a href="https://www.linkedin.com/in/pablo-alves-ribeiro-629bba245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+ <a href="https://api.whatsapp.com/send?phone=5531989369803&text=" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
