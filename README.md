@@ -14,12 +14,12 @@
 ##
 
 #### Tenho conhecimento em:
-[<img height="48px" width="48px" alt="Icone html" src="https://skillicons.dev/icons?i=html"/>](https://firebase.google.com/)
-[<img height="48px" width="48px" alt="Icone css" src="https://skillicons.dev/icons?i=css"/>](https://firebase.google.com/)
-[<img height="48px" width="48px" alt="Icone sass" src="https://skillicons.dev/icons?i=sass"/>](https://firebase.google.com/)
-[<img height="48px" width="48px" alt="Icone styled components" src="https://skillicons.dev/icons?i=styledcomponents"/>](https://firebase.google.com/)
+[<img height="48px" width="48px" alt="Icone html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone css" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img height="48px" width="48px" alt="Icone sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/documentation)
+[<img height="48px" width="48px" alt="Icone styled components" src="https://skillicons.dev/icons?i=styledcomponents"/>](https://styled-components.com/docs)
 [<img height="48px" width="48px" alt="Icone tailwind" src="https://skillicons.dev/icons?i=tailwind"/>](https://v2.tailwindcss.com/docs)
-[<img height="48px" width="48px" alt="Icone material ui" src="https://skillicons.dev/icons?i=mui"/>](https://v2.tailwindcss.com/docs)
+[<img height="48px" width="48px" alt="Icone material ui" src="https://skillicons.dev/icons?i=mui"/>](https://mui.com/material-ui/getting-started/)
 
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone next" src="https://skillicons.dev/icons?i=nextjs"/>](https://www.nextjs.org/docs/)
@@ -29,8 +29,8 @@
 [<img height="48px" width="48px" alt="Icone postgres" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/docs/)
 [<img height="48px" width="48px" alt="Icone firebase" src="https://skillicons.dev/icons?i=firebase"/>](https://firebase.google.com/)
 
-[<img height="48px" width="48px" alt="Icone git" src="https://skillicons.dev/icons?i=git"/>](https://firebase.google.com/)
-[<img height="48px" width="48px" alt="Icone github" src="https://skillicons.dev/icons?i=github"/>](https://firebase.google.com/)
+[<img height="48px" width="48px" alt="Icone git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/doc)
+[<img height="48px" width="48px" alt="Icone github" src="https://skillicons.dev/icons?i=github"/>](https://docs.github.com/en/get-started)
 
 ##
 
