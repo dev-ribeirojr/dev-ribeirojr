@@ -40,19 +40,3 @@
 <a href="https://api.whatsapp.com/send?phone=5531989369803&text="><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 ##
 
-#### Estatísticas:
-<div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ribeirojr&layout=compact&langs_count=7&theme=radical"/>
-<img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=dev-ribeirojr&amp;theme=radical">
-</div>
-
-##
-
-#### Projetos fixados:
-[<img width="400px" alt="Icone github" src="./assets/banco-de-horas.png"/>](https://github.com/dev-ribeirojr/banco-de-horas-trabalhadas)
-[<img width="400px" alt="Icone github" src="./assets/banco-de-horas-info.png"/>](https://banco-de-horas-trabalhadas.vercel.app/)
-
-[<img width="400px" alt="Icone github" src="./assets/kanban.png"/>](https://github.com/dev-ribeirojr/kanban)
-[<img width="400px" alt="Icone github" src="./assets/kanban-info.png"/>](https://kanban-ribeirojr.netlify.app/)
-
-##
