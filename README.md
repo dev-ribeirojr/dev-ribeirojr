@@ -9,8 +9,10 @@
 #### Estou aprendendo sobre:
 
 [<img height="48px" width="48px" alt="Icone Nodejs" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en/docs)
-[<img height="48px" width="48px" alt="Icone Jest" src="https://skillicons.dev/icons?i=jest"/>](https://jestjs.io/pt-BR/docs)
 [<img height="48px" width="48px" alt="Icone prisma" src="https://skillicons.dev/icons?i=prisma"/>](https://www.prisma.io/docs)
+
+[<img height="48px" width="48px" alt="Icone Jest" src="https://skillicons.dev/icons?i=jest"/>](https://jestjs.io/pt-BR/docs)
+[<img height="48px" width="48px" alt="Icone material ui" src="https://skillicons.dev/icons?i=cypress"/>](https://docs.cypress.io)
 ##
 
 #### Tenho conhecimento em:
@@ -20,6 +22,7 @@
 [<img height="48px" width="48px" alt="Icone styled components" src="https://skillicons.dev/icons?i=styledcomponents"/>](https://styled-components.com/docs)
 [<img height="48px" width="48px" alt="Icone tailwind" src="https://skillicons.dev/icons?i=tailwind"/>](https://v2.tailwindcss.com/docs)
 [<img height="48px" width="48px" alt="Icone material ui" src="https://skillicons.dev/icons?i=mui"/>](https://mui.com/material-ui/getting-started/)
+
 
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone next" src="https://skillicons.dev/icons?i=nextjs"/>](https://www.nextjs.org/docs/)
@@ -31,6 +34,8 @@
 
 [<img height="48px" width="48px" alt="Icone git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/doc)
 [<img height="48px" width="48px" alt="Icone github" src="https://skillicons.dev/icons?i=github"/>](https://docs.github.com/en/get-started)
+
+[<img height="48px" width="48px" alt="Icone github" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
 
 ##
 
